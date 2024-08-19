@@ -1,0 +1,39 @@
+{
+    "identifier": "com.pa.areslord.upgrades",
+    "display_name": "Upgrades",
+    "description": "Adds upgrades to base game turrets and an arsenal that can upgrade existing units",
+    "author": "ARES LORD",
+    "signature": "not yet implemented",
+    "download": "https://github.com/ATLASLORD/Upgrades/archive/refs/heads/main.zip",
+    "priority": 100,
+    "icon": "https://imgur.com/uv9qHGd.gif",
+    "forum": "https://github.com/ATLASLORD/Upgrades",
+    "titansOnly": true,
+    "enabled": true,
+    "category": [
+        "balance",
+        "server",
+        "addon",
+        "unit",
+        "titans"
+    ],
+    "scenes": {
+        "shared_build": [
+            "coui://ui/mods/areslord.upgrades/shared_build.js"
+        ],
+        "icon_atlas": [
+            "coui://ui/mods/areslord.upgrades/icon_atlas.js"
+        ],
+        "live_game_build_bar": [
+      "coui://ui/mods/areslord.upgrades/live_build_bar.js"
+    ],
+        "live_game": [
+          "coui://ui/mods/areslord.upgrades/research.js",
+          "coui://ui/mods/areslord.upgrades/research_live_game.js"
+    ]
+    },
+    "context": "server",
+    "date": "2024-08-19",
+    "build": "120799",
+    "version": "1.0.0"
+}
