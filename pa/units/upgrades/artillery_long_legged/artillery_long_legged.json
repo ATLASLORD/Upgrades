@@ -23,7 +23,7 @@
     "navigation":{"type":"land-small",
     "acceleration":20,
     "brake":-1,
-    "move_speed":30,
+    "move_speed":8,
     "turn_speed":30},
     "recon": {
         "observer": {
