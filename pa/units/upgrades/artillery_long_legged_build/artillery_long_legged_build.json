@@ -3,7 +3,7 @@
     "unit_name": "artillery long legged build",
     "display_name": "!LOC:Walking Holkins.",
     "description": "!LOC:It can... Walk?",
-    "si_name": "empty",
+    "si_name": "upgrade",
     "max_health": 5000,
     "build_metal_cost": 10000,
     "unit_types": [

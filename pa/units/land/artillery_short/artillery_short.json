@@ -6,7 +6,7 @@
     "build_metal_cost": 900,
     "atrophy_rate": 25,
     "atrophy_cool_down": 15.0,
-    "buildable_types": "Custom14",
+    "buildable_types": "Custom34",
     "rolloff_dirs": [
         [
             0,

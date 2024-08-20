@@ -7,7 +7,7 @@
     "atrophy_rate": 30.0,
     "atrophy_cool_down": 15.0,
     "spawn_layers": "WL_AnyHorizontalGroundOrWaterSurface",
-    "buildable_types": "Custom13 & Tactical & Advanced & Defense",
+    "buildable_types": "Custom33 & Tactical & Advanced & Defense",
     "rolloff_dirs": [
         [
             0,

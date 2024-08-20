@@ -19,7 +19,7 @@
 "UNITTYPE_Advanced",
 "UNITTYPE_FactoryBuild",
 "UNITTYPE_Important",
-"UNITTYPE_Custom2",
+"UNITTYPE_Custom22",
 "UNITTYPE_Amphibious"],
 "transportable":{"size":2},
 "guard_layer":"WL_AnySurface",

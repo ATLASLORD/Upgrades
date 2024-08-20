@@ -6,7 +6,7 @@
     "build_metal_cost": 900,
     "atrophy_rate": 26.66667,
     "atrophy_cool_down": 15,
-    "buildable_types": "Custom12 & Defense",
+    "buildable_types": "Custom32 & Defense",
     "rolloff_dirs": [
         [
             0,

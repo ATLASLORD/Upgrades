@@ -25,15 +25,15 @@
             "coui://ui/mods/areslord.upgrades/icon_atlas.js"
         ],
         "live_game_build_bar": [
-      "coui://ui/mods/areslord.upgrades/live_build_bar.js"
+      "coui://ui/mods/areslord.upgrades/arsenal_build_bar.js"
     ],
         "live_game": [
-          "coui://ui/mods/areslord.upgrades/research.js",
-          "coui://ui/mods/areslord.upgrades/research_live_game.js"
+          "coui://ui/mods/areslord.upgrades/arsenal.js",
+          "coui://ui/mods/areslord.upgrades/arsenal_live_game.js"
     ]
     },
     "context": "server",
     "date": "2024-08-19",
     "build": "120799",
-    "version": "1.0.0"
+    "version": "1.0.1"
 }

@@ -3,7 +3,7 @@
     "unit_name": "energy plant adv 2 build",
     "display_name": "!LOC:Level 2 energy plant adv",
     "description": "!LOC:adds a second floor",
-    "si_name": "empty",
+    "si_name": "upgrade",
     "max_health": 5000,
     "build_metal_cost": 2000,
     "unit_types": [
@@ -12,7 +12,7 @@
         "UNITTYPE_EnergyProduction",
         "UNITTYPE_Advanced",
         "UNITTYPE_Defense",
-        "UNITTYPE_Custom15"
+        "UNITTYPE_Custom35"
     ], 
     "wreckage_health_frac": 0.0,
     "death_weapon": {

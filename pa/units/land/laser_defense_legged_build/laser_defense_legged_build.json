@@ -3,7 +3,7 @@
     "unit_name": "laser defense legged_build",
     "display_name": "!LOC:Walking laser defense.",
     "description": "!LOC:It can... Walk?",
-    "si_name": "empty",
+    "si_name": "upgrade",
     "max_health": 1500,
     "build_metal_cost": 350,
     "unit_types": [
@@ -12,7 +12,7 @@
         "UNITTYPE_LaserPlatform",
         "UNITTYPE_Advanced",
         "UNITTYPE_Defense",
-        "UNITTYPE_Custom2"
+        "UNITTYPE_Custom22"
     ], 
     "wreckage_health_frac": 0.0,
     "death_weapon": {

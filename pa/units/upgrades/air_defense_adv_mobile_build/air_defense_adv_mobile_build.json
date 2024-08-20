@@ -3,7 +3,7 @@
     "unit_name": "air defense adv mobile build",
     "display_name": "!LOC: Rolling Advanced Air Defense Turret.",
     "description": "!LOC:It can... Roll?",
-    "si_name": "empty",
+    "si_name": "upgrade",
     "max_health": 5000,
     "build_metal_cost": 900,
     "unit_types": [
@@ -11,7 +11,7 @@
         "UNITTYPE_FactoryBuild",
         "UNITTYPE_Advanced",
         "UNITTYPE_Defense",
-        "UNITTYPE_Custom12"
+        "UNITTYPE_Custom32"
     ],
     "wreckage_health_frac": 0.0,
     "death_weapon": {

@@ -1,5 +1,5 @@
 var paeiouIcons = [
-    "advanced_research_station",
+    "arsenal",
     "tank_nuke_airboom_unlock",
     "tank_nuke_unlock",
     "dox_air_unlock",
